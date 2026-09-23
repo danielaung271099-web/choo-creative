@@ -1,4 +1,4 @@
-```javascript
+
 // =========================
 // MOBILE MENU
 // =========================
@@ -43,4 +43,3 @@ contactForm.addEventListener("submit", function(event) {
     contactForm.reset();
 
 });
-```
